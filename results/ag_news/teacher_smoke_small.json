@@ -1,0 +1,11 @@
+{
+  "eval_loss": 2.18491268157959,
+  "eval_accuracy": 0.719,
+  "eval_runtime": 28.1439,
+  "eval_samples_per_second": 35.532,
+  "eval_steps_per_second": 4.441,
+  "epoch": 1.0,
+  "seconds_train_eval": 310.87362933158875,
+  "model": "distilbert-base-uncased",
+  "seed": 42
+}

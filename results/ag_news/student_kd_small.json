@@ -1,0 +1,13 @@
+{
+  "eval_loss": 0.6262075304985046,
+  "eval_runtime": 28.7113,
+  "eval_samples_per_second": 34.829,
+  "eval_steps_per_second": 4.354,
+  "epoch": 1.0,
+  "seconds_train_eval": 70.78378915786743,
+  "teacher": "distilbert-base-uncased",
+  "student": "prajjwal1/bert-tiny",
+  "T": 4.0,
+  "alpha_kd": 0.9,
+  "seed": 42
+}

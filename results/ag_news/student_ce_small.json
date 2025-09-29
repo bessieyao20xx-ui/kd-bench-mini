@@ -1,0 +1,11 @@
+{
+  "eval_loss": 6.768301010131836,
+  "eval_accuracy": 0.362,
+  "eval_runtime": 1.0097,
+  "eval_samples_per_second": 990.36,
+  "eval_steps_per_second": 123.795,
+  "epoch": 1.0,
+  "seconds_train_eval": 16.97707772254944,
+  "model": "prajjwal1/bert-tiny",
+  "seed": 42
+}
